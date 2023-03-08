@@ -1,5 +1,5 @@
-L
-SQL_Project_Music_Store_Analysis
+
+SQL_Project_Music_Database_Analysis
 
 Data Analysis for Digital Music Store using SQL
 
